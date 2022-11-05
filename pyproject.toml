@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "hackerprinter"
+version = "0.1.0"
+description = ""
+authors = ["Karl Fredrik Haugland <kfh@tla.wtf>"]
+
+[tool.poetry.dependencies]
+python = ">3.9,<4"
+escpos = "1.9"
