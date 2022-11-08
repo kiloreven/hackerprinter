@@ -7,3 +7,4 @@ authors = ["Karl Fredrik Haugland <kfh@tla.wtf>"]
 [tool.poetry.dependencies]
 python = ">3.9,<4"
 python-escpos = "2.2.0"
+ipython = "^8.6.0"
